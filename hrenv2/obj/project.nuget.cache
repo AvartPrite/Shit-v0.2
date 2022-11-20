@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ne7mIdURuQmKDYI4bKysgrpRjHSpoLzkRHJjNrZfskeqRW/EVlAiqorKjzfeDaiCwUoUjnErQ7FqZK3jQlCXOw==",
+  "success": true,
+  "projectFilePath": "/home/avart/Code/hrenv2/hrenv2.csproj",
+  "expectedPackageFiles": [
+    "/home/avart/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0/microsoft.aspnetcore.app.ref.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

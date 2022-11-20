@@ -1,0 +1,15 @@
+/home/avart/Code/hrenv2/bin/Debug/net7.0/hrenv2
+/home/avart/Code/hrenv2/bin/Debug/net7.0/hrenv2.deps.json
+/home/avart/Code/hrenv2/bin/Debug/net7.0/hrenv2.runtimeconfig.json
+/home/avart/Code/hrenv2/bin/Debug/net7.0/hrenv2.dll
+/home/avart/Code/hrenv2/bin/Debug/net7.0/hrenv2.pdb
+/home/avart/Code/hrenv2/obj/Debug/net7.0/hrenv2.csproj.AssemblyReference.cache
+/home/avart/Code/hrenv2/obj/Debug/net7.0/hrenv2.GeneratedMSBuildEditorConfig.editorconfig
+/home/avart/Code/hrenv2/obj/Debug/net7.0/hrenv2.AssemblyInfoInputs.cache
+/home/avart/Code/hrenv2/obj/Debug/net7.0/hrenv2.AssemblyInfo.cs
+/home/avart/Code/hrenv2/obj/Debug/net7.0/hrenv2.csproj.CoreCompileInputs.cache
+/home/avart/Code/hrenv2/obj/Debug/net7.0/hrenv2.dll
+/home/avart/Code/hrenv2/obj/Debug/net7.0/refint/hrenv2.dll
+/home/avart/Code/hrenv2/obj/Debug/net7.0/hrenv2.pdb
+/home/avart/Code/hrenv2/obj/Debug/net7.0/hrenv2.genruntimeconfig.cache
+/home/avart/Code/hrenv2/obj/Debug/net7.0/ref/hrenv2.dll
